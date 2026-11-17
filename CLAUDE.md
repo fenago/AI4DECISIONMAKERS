@@ -4,8 +4,8 @@ This project supports Dr. Lee's advisory work for **GES (Global Experience Speci
 
 ## About GES (verify before stating externally)
 - Las Vegas–headquartered full-service provider to the exhibitions and live-events industry since 1939: general service contractor (GSC) for trade shows, exhibitor services, exhibit design/build, event technology, audience and creative marketing, and brand experiences.
-- Believed to be owned by private equity (Truelink Capital acquired it from Viad around the end of 2024). **Unconfirmed — confirm with Dr. Lee before using in client material.** If true, GES is likely running a buy-and-build plan with a defined hold period and exit.
-- Recent moves: acquired **CSG Creative** (marketing/creative agency for associations and exhibitions) in 2025; opened a **Paris** office and facility and launched **NFC-enabled Touchpoints** for exhibition stands in 2026.
+- **Owned by private equity firm Truelink Capital**, which completed its acquisition of GES from Viad on Dec 31, 2024 (Verified: PR Newswire). GES is a buy-and-build platform with a defined hold period and an eventual exit.
+- Recent moves: acquired **CSG Creative** (marketing/creative agency for associations and exhibitions) announced **Nov 5, 2026** (Verified: Truelink/PR Newswire, TSNN); opened a **Paris** office and facility and launched **NFC-enabled Touchpoints** for exhibition stands in 2026.
 - Main competitor: **Freeman**. Others include Shepard, Fern, Hargrove, Alliance Nationwide, plus regional and international contractors.
 
 ## The agent team (`.claude/agents/`)

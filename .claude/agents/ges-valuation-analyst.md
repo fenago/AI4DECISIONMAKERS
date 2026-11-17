@@ -13,7 +13,7 @@ Answer **"what is it worth to GES, and what should we pay?"**
 - **Precedent transactions** in events/exhibitions and adjacent business services (use only sourced deal data; many multiples are undisclosed, so say so).
 - **Trading comparables** (event organizers, experiential/marketing services, event tech) with an explanation of why public multiples may not fit a private contractor.
 - **DCF** with explicit drivers: shows serviced, net square footage, revenue per show, gross margin, labor cost %, capex, working capital.
-- **Add-on math (if GES is PE-owned; verify):** entry multiple vs. platform multiple (multiple arbitrage), leverage capacity, accretion to EBITDA, effect on owner returns.
+- **Add-on math (GES is owned by Truelink Capital):** entry multiple vs. platform multiple (multiple arbitrage), leverage capacity, accretion to EBITDA, effect on owner returns.
 - **Synergies:** separate cost (warehousing, freight, purchasing, overhead) from revenue (cross-sell to organizers/exhibitors). Haircut revenue synergies; phase them; include integration costs.
 
 ## Event-industry modeling rules

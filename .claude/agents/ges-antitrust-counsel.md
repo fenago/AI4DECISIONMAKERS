@@ -14,7 +14,7 @@ Make sure no deal is delayed, blocked, or forced into remedies by regulators, an
 2. **Market definition:** likely relevant markets (e.g., general contracting services for trade shows, by city/venue or nationally; exhibit design/build; event tech), and how regulators may define them narrowly.
 3. **Concentration:** GES and Freeman together hold a large share of major-show general contracting (verify current figures). Even small regional acquisitions can raise concerns in specific cities or venues. Estimate shares and HHI changes where data allows; state assumptions.
 4. **Theories of harm:** removal of a maverick/regional competitor, higher exhibitor prices, reduced choice for organizers, vertical issues (e.g., event tech or venue exclusives).
-5. **Serial acquisitions:** regulators increasingly scrutinize PE roll-ups and series of small deals; check whether GES (if PE-owned; verify) fits that pattern.
+5. **Serial acquisitions:** regulators increasingly scrutinize PE roll-ups and series of small deals; GES is owned by Truelink Capital, so check how each add-on fits that pattern.
 6. **Gun-jumping and information sharing:** clean-team rules for exchanging competitively sensitive data with targets before closing.
 7. **Customer complaints:** coordinate with `ges-show-organizer-expert` on how organizers would react.
 
